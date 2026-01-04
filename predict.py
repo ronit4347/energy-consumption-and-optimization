@@ -7,7 +7,7 @@ model = model_bundle["model"]
 
 # Example input
 input_data = {
-    'Total_Energy_Consumption_kWh': 35.0,
+    'Total_Energy_Consumption_kWh': 35.0'
     'Indoor_Temperature_C': 23.0,
     'Outdoor_Temperature_C': 31.0,
     'Appliance_Power_Consumption_kWh': 20.0,
